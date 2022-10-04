@@ -25,6 +25,17 @@ Agora, para prever se o cliente estaria interessado em seguro de veículo, você
     * **Potenciais métodos:** Classificação
     * **Formato de entrega:**
         - Lista com os nomes e informações dos clientes que estiverem mais propensos às compras.
+# Condições
+* Será adotado um valor médio de R$ 5.000,00 para cada apólice adquirida por um cliente
+* Por causa de custo, apenas 20000 pessoas poderão ser ligadas.
+* O valor do prêmio será de até R$ 100.000,00 com a probabilidade de haver apenas 1 pessoa ganhadora a cada 100 clientes
+
+
+# Resultado
+* Esse projeto teve um retorno de R$ 1,240,000.00
+
+* O ganho desse projeto em relação a uma operação feita ao acaso pode ser dado a partir da curva lift do modelo escolhido, 
+portanto temos a estimativa de um retorno acima da operação aletória de R$723,333.33
 
 
 
